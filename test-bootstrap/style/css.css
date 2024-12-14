@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@300;400;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.card {
+    height: 366px;;
+    margin-top: 2rem;
+}
+
+.card-text {
+    margin: 0;
+}
+
+a.btn.btn-primary {
+    margin-top: 1rem;
+}
+
+.card-img-top {
+    height: 160px;
+}
+
+.btn {
+    width: 100%;
+}
+
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.div.col {
+    width: 100%;
+}
+.navbar-collapse {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.card {
+    background-color: silver;
+    font-weight: 600;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Open Sans", serif; 
+    font-weight: 600;
+}
+/* 
+font-family: "BenchNine", serif;
+font-family: "Open Sans", serif; 
+*/
+
+.photo {
+    width: 1280px;
+    height: 720px;
+}
+
